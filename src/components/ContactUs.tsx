@@ -21,7 +21,7 @@ const ContactUs: React.FC = () => (
       </div>
       <div className="flex items-center justify-center">
         <a
-          href="https://chat.whatsapp.com/your-group-invite-link"
+          href="https://chat.whatsapp.com/Cr4b8Iojov0FL9fTKZHvNB"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-gradient-to-r from-green-400 to-green-600 hover:from-green-500 hover:to-green-700 text-white font-bold py-2 px-4 rounded-full shadow-lg transform hover:scale-105 transition-all duration-300 flex items-center space-x-2"
