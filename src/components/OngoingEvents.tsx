@@ -9,7 +9,7 @@ const OngoingEvents: React.FC = () => {
     <section className="bg-black bg-opacity-50 rounded-lg p-6">
       <h2 className="text-3xl font-bold mb-4">Ongoing Events</h2>
       <div 
-        className="bg-gray-800 rounded-lg overflow-hidden group relative cursor-pointer"
+        className="bg-gradient-to-r from-fuchsia-600 to-pink-600 rounded-lg overflow-hidden group relative cursor-pointer"
         onClick={() => setIsModalOpen(true)}
       >
         <img
